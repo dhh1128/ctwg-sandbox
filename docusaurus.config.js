@@ -1,13 +1,13 @@
 module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://trustoverip.github.io',
+  baseUrl: '/ctwg-sandbox/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'trustoverip', // Usually your GitHub org/user name.
-  projectName: 'ssi-ac-whitepaper', // Usually your repo name.
+  projectName: 'ctwg-sandbox', // Usually your repo name.
   plugins: [
   [
     "@docusaurus-terminology/parser",
